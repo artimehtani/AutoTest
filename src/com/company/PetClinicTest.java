@@ -1,3 +1,5 @@
+PetClinic
+
 package com.company;
 
 import org.junit.*;
